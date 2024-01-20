@@ -4,4 +4,4 @@
 Google Cloud Functions で動作確認。ランタイムはPython3.8。
 詳細は以下Qiitaの記事に書いてます。
 
-https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9
+https://qiita.com/Mymt_aggw2208/items/d4a2bf81ae1c6ccf4cb2
